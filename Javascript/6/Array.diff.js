@@ -12,3 +12,5 @@
 function arrayDiff(a, b) {
   
 }
+
+console.log("oh, ehlo.");
